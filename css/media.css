@@ -19,7 +19,7 @@ This file contains all styles for responsive layout
 	#header li.center {display:none;}
 	
 	#core .core-values li .core {background-color:#f9f9f9!important;}
-	#core .core-values li .fa {color:#000!important;}
+	#core .core-values li .fa {color:#254117!important;}
 	
 	.review .left {width:100%;margin:0;}
 	.review .right {width:100%;margin:0;}
@@ -34,7 +34,7 @@ This file contains all styles for responsive layout
 	
 	#portfolio li {width:50%;}
 	
-	#header{background-color:#000; height:60px; z-index:999999;}
+	#header{background-color:#254117; height:60px; z-index:999999;}
 	.wrap {width:100%;}
 	
 	#contacts .get-in-touch {width:323px;}
@@ -72,9 +72,9 @@ This file contains all styles for responsive layout
 	.post .vimeo-frame {height:250px;}
 	
 	#navigation li a.active {background-color:#535353;color:#fff;}
-	#navigation li a.active:hover {background-color:#fff;color:#000;}
+	#navigation li a.active:hover {background-color:#fff;color:#254117;}
 	#navigation li a span.border {display:none!important;}
-	#navigation li a:hover {background-color:#000!important;}
+	#navigation li a:hover {background-color:#254117!important;}
 	
 	.smart-slide {margin-bottom:10px;}
 	
