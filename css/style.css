@@ -479,10 +479,10 @@ section.page {margin-top:60px;padding:40px 0;}
 
 .conta {float:left;width:100%;margin-top:20px;position:relative; padding-bottom:100px;}
 .conta .addr {float:left;width:350px;}
-.conta .addr h6 {font-size:33px; line-height:42px; font-weight:normal; color:#254117; margin-bottom:15px; margin-top:0px;}
-.conta .addr p {font-size:22px; line-height:24px; font-weight:normal; color:#254117; margin-bottom:15px;}
-.conta .addr .phone {font-size:22px; line-height:24px; font-weight:normal; color:#254117; margin-bottom:15px; background:#666 url(../img/bg_phone_f.png) no-repeat 15px 10px; padding:10px 10px 10px 60px;}
-.conta .addr .email {font-size:22px; line-height:24px; font-weight:normal; color:#254117; margin-bottom:15px; background:#666 url(../img/bg_email_f.png) no-repeat 15px 13px; padding:10px 10px 10px 60px;}
+.conta .addr h6 {font-size:33px; line-height:42px; font-weight:normal; color:#808285; margin-bottom:15px; margin-top:0px;}
+.conta .addr p {font-size:22px; line-height:24px; font-weight:normal; color:#636466; margin-bottom:15px;}
+.conta .addr .phone {font-size:22px; line-height:24px; font-weight:normal; color:#fff; margin-bottom:15px; background:#254117 url(../img/bg_phone_f.png) no-repeat 15px 10px; padding:10px 10px 10px 60px;}
+.conta .addr .email {font-size:22px; line-height:24px; font-weight:normal; color:#fff; margin-bottom:15px; background:#254117 url(../img/bg_email_f.png) no-repeat 15px 13px; padding:10px 10px 10px 60px;}
 .conta .addr .soc {width:77px; height:77px; float:left; margin-right:15px;}
 .conta .right_form {float:right;width:600px;}
 .conta .right_form .row {float:left;width:600px; margin-bottom:20px;}
