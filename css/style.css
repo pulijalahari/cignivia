@@ -610,6 +610,36 @@ body {
             color: #faf4d0;
             padding: 0px 10px 15px 10px;
         }
+
+ #service4 {
+            display: block;
+            width: 100%;
+            background-color: #1a2e35;
+            padding: 10px;
+            margin: 35px 0px;
+        }
+
+        #service4 h2 {
+            text-align: center;
+            font-family: 'poppinssemibold';
+            font-size: 22px;
+            line-height: 26px;
+            color: #faf4d0;
+            margin: 0 auto;
+            width: 60%;
+            padding: 10px 0px 5px 0px;
+            margin-bottom: 12px;
+            border-bottom: 2px solid #faf4d0;
+        }
+
+        #service4 p {
+            font-family: 'poppinsregular';
+            font-size: 14px;
+            line-height: 18px;
+            color: #faf4d0;
+            padding: 0px 10px 15px 10px;
+        }
+
     /* end servicesHeader */
 /* SERVICES */
 
