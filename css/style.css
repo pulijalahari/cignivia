@@ -168,7 +168,7 @@ body {
         #miniHeader {
             width: 100%;
             height: 19px;
-            padding: 8px;
+            padding: 8px 0px;
             background-color: #1A2E35;
         }
 
